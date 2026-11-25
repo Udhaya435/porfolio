@@ -1,0 +1,104 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1983 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+15 TL
+/F1 16 Tf
+(UDHAYAKUMAR S) Tj
+T*
+/F1 10 Tf
+(Junior Software Engineer | Full Stack Developer) Tj
+T*
+(Erode, Tamil Nadu, India | Email: s.udhayakumar321@gmail.com | Mobile: 9524785164) Tj
+T*
+() Tj
+T*
+(PROFESSIONAL SUMMARY) Tj
+T*
+(Full Stack Developer with 1 year of experience in developing web applications using) Tj
+T*
+(Python, Node.js, PostgreSQL, and React.js. Experience in REST API development,) Tj
+T*
+(database management, and responsive frontend development.) Tj
+T*
+() Tj
+T*
+(TECHNICAL SKILLS) Tj
+T*
+(Languages: JavaScript, Python, C#) Tj
+T*
+(Frontend: React.js, Next.js, HTML5, CSS3, Bootstrap 5, Tailwind CSS) Tj
+T*
+(Backend: Django, Node.js, Express.js, ASP.NET Web API) Tj
+T*
+(Databases: PostgreSQL, MySQL) Tj
+T*
+(Tools: Git, GitHub, Version Control, CRUD Operations, Postman) Tj
+T*
+() Tj
+T*
+(PROFESSIONAL EXPERIENCE) Tj
+T*
+(Full Stack Developer | Adhiba Technologies Pvt. Ltd., Coimbatore | Oct 2025 - Oct 2026) Tj
+T*
+(- Developed and maintained responsive web applications using modern technologies.) Tj
+T*
+(- Designed and implemented RESTful APIs between frontend and backend systems.) Tj
+T*
+(- Built dynamic and reusable user interface components using React.js.) Tj
+T*
+(- Managed PostgreSQL database operations, schema design, CRUD, and query optimization.) Tj
+T*
+(- Collaborated with cross-functional teams and managed code with Git and GitHub.) Tj
+T*
+() Tj
+T*
+(KEY PROJECTS) Tj
+T*
+(1. QI Suite - ERP Quality Management System \(Node.js, Express, React, TS, PostgreSQL\)) Tj
+T*
+(2. SOS Emergency Alert Dashboard \(Node.js, Express, React, TS, PostgreSQL\)) Tj
+T*
+(3. Conveyors Manufacturing Website \(React.js, TypeScript, Tailwind CSS, GSAP\)) Tj
+T*
+(4. NYSTAI - AIoT Solutions Website \(Python, Django, DRF, React, TS, PostgreSQL\)) Tj
+T*
+() Tj
+T*
+(EDUCATION & CERTIFICATIONS) Tj
+T*
+(B.Tech Information Technology | Anna University | 2026) Tj
+T*
+(Certifications: Python FullStack Web Development \(2025\) | MERN Stack \(Udemy\)) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002276 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2346
+%%EOF

@@ -1,0 +1,58 @@
+@keyframes pulse-dot {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.45;
+    transform: scale(0.8);
+  }
+}
+
+@keyframes subtle-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.svg-orbit-spin {
+  transform-origin: center;
+  animation: subtle-spin 36s linear infinite;
+}
+
+.svg-orbit-spin-reverse {
+  transform-origin: center;
+  animation: subtle-spin 28s linear infinite reverse;
+}
+
+.magnetic {
+  will-change: transform;
+}
+
+.clip-reveal {
+  will-change: clip-path, opacity;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .svg-orbit-spin,
+  .svg-orbit-spin-reverse,
+  .hero-availability__dot {
+    animation: none !important;
+  }
+
+  .preloader {
+    display: none !important;
+  }
+}
